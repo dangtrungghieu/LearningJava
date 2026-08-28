@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT_HaNoiTower/BT_HaNoiTower.iml" filepath="$PROJECT_DIR$/BT_HaNoiTower/BT_HaNoiTower.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_33/Java_33.iml" filepath="$PROJECT_DIR$/Java_33/Java_33.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_34/Java_34.iml" filepath="$PROJECT_DIR$/Java_34/Java_34.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_35/Java_35.iml" filepath="$PROJECT_DIR$/Java_35/Java_35.iml" />
