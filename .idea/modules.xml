@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_64/Java_64.iml" filepath="$PROJECT_DIR$/Java_64/Java_64.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_65/Java_65.iml" filepath="$PROJECT_DIR$/Java_65/Java_65.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_66/Java_66.iml" filepath="$PROJECT_DIR$/Java_66/Java_66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Set_Map/Java_Set_Map.iml" filepath="$PROJECT_DIR$/Java_Set_Map/Java_Set_Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningJava.iml" filepath="$PROJECT_DIR$/.idea/LearningJava.iml" />
     </modules>
   </component>
