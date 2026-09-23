@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_66/Java_66.iml" filepath="$PROJECT_DIR$/Java_66/Java_66.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Set_Map/Java_Set_Map.iml" filepath="$PROJECT_DIR$/Java_Set_Map/Java_Set_Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearningJava.iml" filepath="$PROJECT_DIR$/.idea/LearningJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortArrays/SortArrays.iml" filepath="$PROJECT_DIR$/SortArrays/SortArrays.iml" />
     </modules>
   </component>
 </project>
